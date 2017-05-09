@@ -12,7 +12,7 @@ Unknown
 
 Deployed site
 ----
-Link to the deployed site: [here](https://iwanjugu.github.io/jQuerySelectChange/)
+Link to the deployed site: [here](http://jqueryselect.iwanjugu.com/)
 
 
 Licenses
